@@ -1,6 +1,6 @@
 # Media Flix
 
-Media Flix is a **self-hosted personal media platform** designed for people who want full control over their media servers, accounts, and data — without cloud lock-in, social noise, or opaque behavior.
+Media Flix is a **self-hosted personal media platform** designed for people who want full control over their media servers, accounts, and data without cloud lock-in, tracking, or selling personal data.
 
 It is inspired by platforms like Plex, Emby, and Jellyfin, but built with a **server-first**, **account-centric**, and **restore-friendly** architecture from the ground up.
 
